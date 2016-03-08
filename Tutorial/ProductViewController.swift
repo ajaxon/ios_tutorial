@@ -25,7 +25,7 @@ class ProductViewController: UIViewController {
 
     @IBAction func addToCartPressed(sender: AnyObject) {
         
-        print("Button Tapped")
+        
     }
 
 }
